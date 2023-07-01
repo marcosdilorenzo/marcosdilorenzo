@@ -147,6 +147,6 @@
 
 <br>
 
-Credit: [Abdul Khalid](https://github.com/0xabdulkhalid)
+Credit: [Marcos Di lorenzo](https://github.com/marcosdilorenzo)
 
-Last Edited on: 09/11/2022
+Last Edited on: 01/07/2023
