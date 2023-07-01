@@ -23,7 +23,7 @@
 [![Firefox](https://img.shields.io/badge/Firefox-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white&labelColor=101010)](https://www.mozilla.org/en-US/firefox/new/?redirect_source=firefox-com) [![Edge](https://img.shields.io/badge/Edge-0078D7?style=for-the-badge&logo=Microsoft-edge&logoColor=white&labelColor=101010)](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwiPuqK0xJP_AhWJpYQIHYqlB44QFnoECAkQAQ&url=https%3A%2F%2Fwww.microsoft.com%2Fedge%2Fdownload&usg=AOvVaw10jbjeqGp6-BwezjV70LDR)
 
 ## 🧮 Stats 
-[![MarcosDiLorenzo stats](https://github-readme-stats.vercel.app/api?username=loboguardian&show_icons=true&theme=react)](https://github.com/loboguardian/github-readme-stats)
+
 
 ## 📝 Most used languages
 ![MarcosDilorenzo Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=loboguardian&theme=react&layout=compact&hide=)
