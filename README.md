@@ -131,9 +131,11 @@
 
 
 </a>
-</li>
-	<a href="https://github.com/marcosdilorenzo" target="_blank">
+<a href="https://github.com/marcosdilorenzo" target="_blank">
   <img align="center" src="https://img.shields.io/badge/marcosdilorenzo-100000?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+</li>
+	
 </a>
 </ul>
 </div>
