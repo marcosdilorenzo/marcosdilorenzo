@@ -128,6 +128,10 @@
 <a href="mailto:marcosdilorenzo01@gmail.com" target="_blank">
 <img src="https://img.shields.io/badge/gmail:  marcosdilorenzo01-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" alt=gmail style="margin-bottom: 5px;" />
 </a>
+<a href="https://github.com/marcosdilorenzo" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/marcosdilorenzo-100000?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
 
 </a>
 </li>
