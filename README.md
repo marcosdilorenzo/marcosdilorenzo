@@ -2,6 +2,11 @@
 <h1 align="center"><b>Hi , I'm 𝙈𝘼𝙍𝘾𝙊𝙎 𝘿𝙄 𝙇𝙊𝙍𝙀𝙉𝙕𝙊 / 𝙋𝙍𝙊𝙂𝙍𝘼𝙈𝙈𝙄𝙉𝙂 𝙎𝙏𝙐𝘿𝙀𝙉𝙏 💻  </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy-modified.gif" width="35"></h1>
 
 
+<p align="center">
+  <img src="https://miro.medium.com/max/2048/1*OohqW5DGh9CQS4hLY5FXzA.png" height="230"/>
+</p>
+
+
 	
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
 
