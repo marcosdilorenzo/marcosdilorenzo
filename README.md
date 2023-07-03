@@ -144,6 +144,7 @@
 <div align='center'>
 
 ## <b>GRACIAS POR PASARTE...✨</b>
+## <b>THANKS FOR VISITING...✨</b>
 
 </div>
 <br>
