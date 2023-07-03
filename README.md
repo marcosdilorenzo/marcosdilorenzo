@@ -1,9 +1,3 @@
-<style>
-    body {
-      background-color: black;
-      color: white;
-    }
-  </style>
 <h1 align="center"><b>Hi , I'm 👋 𝙈𝘼𝙍𝘾𝙊𝙎 𝘿𝙄 𝙇𝙊𝙍𝙀𝙉𝙕𝙊 // 𝙋𝙍𝙊𝙂𝙍𝘼𝙈𝙈𝙄𝙉𝙂 𝙎𝙏𝙐𝘿𝙀𝙉𝙏 💻  </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy-modified.gif" width="35"></h1>
 
 
