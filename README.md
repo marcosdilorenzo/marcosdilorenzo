@@ -154,7 +154,7 @@
 
 ## <b>GRACIAS POR PASARTE...✨</b>
 ## <b>THANKS FOR VISITING...✨</b>
-
+<img src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif" /><br><br>
 </div>
 <br>
 <br>
