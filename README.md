@@ -8,7 +8,7 @@
 
 <br>
 
-- A passionate self-taught front-end developer
+- A passionate self-taught developer
 - Play CSGO in free time.
 - Currently learning Full Stack at EGG COPERATION
 - Website
