@@ -1,8 +1,7 @@
 <p align="center">
  <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+GitHub+Profile!&center=true&width=360&height=30">
 </p>
-<h1 align="center"><b>Hi , I'm 👋 𝙈𝘼𝙍𝘾𝙊𝙎 𝘿𝙄 𝙇𝙊𝙍𝙀𝙉𝙕𝙊 
-	𝙋𝙍𝙊𝙂𝙍𝘼𝙈𝙈𝙄𝙉𝙂 𝙎𝙏𝙐𝘿𝙀𝙉𝙏 💻  </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy-modified.gif" width="35"></h1>
+<h1 align="center"><b>Hi , I'm 👋 𝙈𝘼𝙍𝘾𝙊𝙎 𝘿𝙄 𝙇𝙊𝙍𝙀𝙉𝙕𝙊-𝙋𝙍𝙊𝙂𝙍𝘼𝙈𝙈𝙄𝙉𝙂 𝙎𝙏𝙐𝘿𝙀𝙉𝙏 💻  </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy-modified.gif" width="35"></h1>
 
 
 <p align="center">
