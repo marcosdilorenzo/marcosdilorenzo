@@ -21,7 +21,7 @@
 - Currently learning Full Stack at EGG COPERATION
 - Website
 (I do not have yet)
-- I am currently open for an internship or a new job opportunity, this is [my resume] (Attach CV)
+- I am currently open for an internship or a new job opportunity
 
 <br><br>
 
