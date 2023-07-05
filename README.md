@@ -132,7 +132,7 @@
 <a href="mailto:marcosdilorenzo01@gmail.com" target="_blank">
 <img src="https://img.shields.io/badge/gmail:  marcosdilorenzo01-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" alt=gmail style="margin-bottom: 5px;" />
 </a>
-
+<br>
 <br>
 <li>
 <a href="https://github.com/marcosdilorenzo" target="_blank">
