@@ -86,9 +86,10 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=MarcosDilorenzo&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="450"/>
+<a href="https://github.com/TuNombreDeUsuario">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=TuNombreDeUsuario&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=TuNombreDeUsuario&layout=compact&langs_count=8&theme=algolia"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=MarcosDiLorenzo&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="375" alt="tunombredeusuario"/>
 
 
 </a>
