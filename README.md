@@ -17,10 +17,9 @@
 <br>
 
 - A passionate self-taught developer
-- Play CSGO in free time.
+- Play CODE in free time.
 - Currently learning Full Stack at EGG COPERATION
-- Website
-(I do not have yet)
+- Website (I do not have yet)
 - I am currently open for an internship or a new job opportunity
 
 <br><br>
